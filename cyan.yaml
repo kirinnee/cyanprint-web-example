@@ -1,0 +1,10 @@
+username: kirinnee
+name: latex-report
+description: Template for a simple latex report
+project: https://google.com
+source: https://google.com
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["cyan/default"]
+plugins: []
